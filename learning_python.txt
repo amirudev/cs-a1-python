@@ -1,0 +1,3 @@
+Function is where you can organize your block code
+Classes is where you can make object more neatly
+Files can gives you more flexibility with other types
